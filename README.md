@@ -7,8 +7,11 @@ A collection of C++ projects on the Pi Pico. Check out the links below getting s
 4. [Debugging the PICO](doc/debugging_the_pico.md)
 
 # Project List
-Below are a list of the projects included in the repo.
-#TODO:DS: List projects here and links to readmes. Maybe have the individual readmes contain the build & Flash? Or will that be too much repeated information? Also include ideas here! Simple ideas like spin a motor, but also complex ones like the ghosty boi.
+- [hello](projects/hello/hello.md) : Your typical hello world project
+- [hello2](projects/hello2/hello2.md) : A clone of the hello project
+- IDEA: Let's have a simple serial project here using the probe
+- IDEA: A 3D print spinning pumpkin light.
+- IDEA: A Simple Open Book that screams!
 
 # Sources & Other helpful links
 #TODO:DS: Link to sources and other helpful documentation
