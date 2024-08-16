@@ -1,17 +1,14 @@
 # cpp-pico
-A collection of C++ projects on the Pi Pico
+A collection of C++ projects on the Pi Pico. Check out the links below getting started with development.
 
-# Workspace Setup
-#TODO:DS: Either move the setup instructions here, or link to another document
+1. [Workspace Setup](doc/workspace_setup.md)
+2. [Building a PICO Project](doc/building_a_pico_project.md)
+3. [Flashing the PICO](doc/flashing_the_pico.md)
+4. [Debugging the PICO](doc/debugging_the_pico.md)
 
-# Build
-#TODO:DS: Instructions for building a project
+# Project List
+Below are a list of the projects included in the repo.
+#TODO:DS: List projects here and links to readmes. Maybe have the individual readmes contain the build & Flash? Or will that be too much repeated information? Also include ideas here! Simple ideas like spin a motor, but also complex ones like the ghosty boi.
 
-# Flash
-#TODO:DS: Instructions for flashing a Pi Pico with your built project
-
-# Debug
-#TODO:DS: Tips for debugging a flashed Pi Pico
-
-# Projects
-#TODO:DS: List projects here and links to readmes
+# Sources & Other helpful links
+#TODO:DS: Link to sources and other helpful documentation

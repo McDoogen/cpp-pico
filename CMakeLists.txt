@@ -5,3 +5,4 @@ project(cpp-pico C CXX ASM)
 pico_sdk_init()
 
 add_subdirectory(projects/hello)
+add_subdirectory(projects/hello2)
