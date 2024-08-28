@@ -6,3 +6,4 @@ pico_sdk_init()
 
 add_subdirectory(projects/hello)
 add_subdirectory(projects/hello2)
+add_subdirectory(projects/gamepad)

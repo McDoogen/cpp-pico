@@ -83,6 +83,3 @@ sudo picotool load build/src/hello/hello.uf2
 ```
 rm -rf ~/picotool
 ```
-
-## Install tools to use the [Pico Debug Probe](https://www.raspberrypi.com/documentation/microcontrollers/debug-probe.html)
-#TODO:DS: Check the link above for list of tools needed, including minicom?

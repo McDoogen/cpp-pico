@@ -12,9 +12,11 @@ int main() {
     gpio_put(PICO_DEFAULT_LED_PIN, true);
 
     while (true) {
-        sleep_ms(1000);
+        sleep_ms(200);
         gpio_put(PICO_DEFAULT_LED_PIN, false);
-        sleep_ms(1000);
+        printf("LED OFF!\n");
+        sleep_ms(200);
         gpio_put(PICO_DEFAULT_LED_PIN, true);
+        printf("LED ON!\n");
     }
 }

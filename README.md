@@ -10,8 +10,27 @@ A collection of C++ projects on the Pi Pico. Check out the links below getting s
 - [hello](projects/hello/hello.md) : Your typical hello world project
 - [hello2](projects/hello2/hello2.md) : A clone of the hello project
 - IDEA: Let's have a simple serial project here using the probe
+- IDEA: IDC Gamepad, to learn I2C, and create a library for the gamepad.
+- IDEA: Drop down, wind up ghosty boi!
+- IDEA: Snake drop trap!
+- IDEA: Watching eyes. Eyes that follow you as you move, and open when you are nearby.
 - IDEA: A 3D print spinning pumpkin light.
 - IDEA: A Simple Open Book that screams!
+- IDEA: Ouija board!
+- IDEA: Spinning Spooky Cross 
+- IDEA: Shaking portraits!!
+- IDEA: Chattering skull!
+- IDEA: Separate the trigger sensors from the outputs?
 
-# Sources & Other helpful links
-#TODO:DS: Link to sources and other helpful documentation
+# External Sources
+
+### Useful Documentation
+- [Getting Started with Raspberry Pi Pico](https://datasheets.raspberrypi.com/pico/getting-started-with-pico.pdf)
+    - See Appendix A for using the PICO Debug Probe
+- [Pi Pico Pinout Diagram](https://pico.pinout.xyz/)
+
+### Tutorials
+- [cmake](https://cmake.org/cmake/help/latest/guide/tutorial/index.html)
+
+# TODO
+- Make a cheat sheet of commands, or move them to the launch place
