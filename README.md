@@ -28,6 +28,7 @@ A collection of C++ projects on the Pi Pico. Check out the links below getting s
 - [Getting Started with Raspberry Pi Pico](https://datasheets.raspberrypi.com/pico/getting-started-with-pico.pdf)
     - See Appendix A for using the PICO Debug Probe
 - [Pi Pico Pinout Diagram](https://pico.pinout.xyz/)
+- [Pico SDK Documentation](https://www.raspberrypi.com/documentation/pico-sdk/)
 
 ### Tutorials
 - [cmake](https://cmake.org/cmake/help/latest/guide/tutorial/index.html)
