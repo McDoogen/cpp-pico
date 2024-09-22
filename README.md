@@ -9,6 +9,8 @@ A collection of C++ projects on the Pi Pico. Check out the links below getting s
 # Project List
 - [hello](projects/hello/hello.md) : Your typical hello world project
 - [hello2](projects/hello2/hello2.md) : A clone of the hello project
+- [gamepad](projects/gamepad/gamepad.md) : Experiment with Adafruit I2C Gamepad
+- [ros2-led]() : Control an LED with ROS2
 - IDEA: Let's have a simple serial project here using the probe
 - IDEA: IDC Gamepad, to learn I2C, and create a library for the gamepad.
 - IDEA: Drop down, wind up ghosty boi!
