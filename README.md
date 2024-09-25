@@ -37,3 +37,4 @@ A collection of C++ projects on the Pi Pico. Check out the links below getting s
 
 # TODO
 - Make a cheat sheet of commands, or move them to the launch place
+- Provide targets for building individual projects, instead of all of them
